@@ -8,7 +8,7 @@ As a full-stack developer, I'm passionate about technology's role in driving bus
 
 * 🌍  I'm based in Arba Minch
 * ✉️  You can contact me at [asmareadmasu0@gmail.com](mailto:asmareadmasu0@gmail.com)
-* 🧠  I'm learning Next js,Django
+* 🧠  I'm learning project management
 * 🤝  I'm open to collaborating on Web development projects
 * ⚡  i'm travel enthusiast with a passion for discussing business strategies and trends.
 
