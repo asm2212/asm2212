@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web Development projects as an Intern at Afronex Tech Hub**
+ 🔭 I’m currently working on **Web Development projects as an Intern **
  
  🌱 I’m currently learning som..
     
