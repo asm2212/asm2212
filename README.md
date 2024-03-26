@@ -49,8 +49,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  
-  <img width="390" src="https://github-readme-streak-stats-asm2212.vercel.app/?username=asm2212&count_private=true&theme=react&border_radius=10" alt="Streak Stats">
+
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=asm2212&theme=react&border_radius=10" alt="Streak Stats">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=asm2212&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
   <br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
