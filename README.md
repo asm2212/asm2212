@@ -55,8 +55,12 @@
   <br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
-
-<br/><br/>
+<br>
+<br/>
 <hr/>
+<h2 align="center">
+  <img src="https://readme.typing.svg.herokuapp.com?lines=Thanks+for+visiting+my+profile!;Hope+you+enjoyed+exploring+my+work!;Feel+free+to+reach+out+for+collaboration+or+just+to+say+hi!&center=true&width=500&height=70">
+</h2>
+
 <br/>
 <br/>
