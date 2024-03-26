@@ -31,8 +31,8 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          asm2212:${{asm2212}}
-          # github_user_name: ${{ github.repository_owner }}
+          # asm2212:${{asm2212}}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
