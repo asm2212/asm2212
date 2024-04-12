@@ -1,25 +1,66 @@
-# Hi there! 👋 I'm Asmare Admasu!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asm2212.asm2212" />
 
-## About Me
-I'm Asmare, a full-stack developer passionate about crafting engaging web experiences. Currently interning in web development, I thrive on challenges and love learning new technologies to enhance my skills.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
+</h1>
 
-- 🔭 Currently working on web development projects as an intern.
-- 🌱 Actively learning and mastering:
-  - **Languages:** JavaScript, Python, TypeScript
-  - **Frameworks:** React, Express, Next.js, Django
-  - **Tools:** HTML/CSS, Bootstrap, Tailwind CSS, VSCode, Git/GitHub, Figma
-  - **Databases:** MongoDB, Firebase, MySQL
+<h3 align="center"> Fullstack developer</h3>
 
-## My Contributions
-Here's a fun visualization of my GitHub contributions:
-![Snake Animation](https://raw.githubusercontent.com/asm2212/asm2212/main/github-contribution-grid-snake.svg)
+<br/>
 
-## Stats
-Here's a glimpse of my GitHub activity:
-- **Streak Stats:** ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=asm2212&theme=react&border_radius=10)
-- **Readme Stats:** ![Readme Stats](https://github-readme-stats.vercel.app/api?username=asm2212&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-- **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats)
+<div align="center">
+ 
+ 🔭 I’m currently working on **web development as an Intern**
+ 
+ 🌱 I’m currently learning **some...**
 
-## Let's Connect!
-Thanks for stopping by! I'm open to collaboration and new opportunities. Feel free to reach out:
-- 📧 [Email](mailto:asmareadmasu0@gmail.com)
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:asmareadmasu0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ 
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql, django" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/asm2212/asm2212/main/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=asm2212&theme=react&border_radius=10" alt="Streak Stats">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=asm2212&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
+  <br>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
+</div>
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="https://readme.typing.svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting+my+profile!;Hope+you+enjoyed+exploring+my+work!;Feel+free+to+reach+out+for+collaboration+or+just+to+say+hi!&duration=4000">
+</h2>
+
+<br/>
+<br/>
