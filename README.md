@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
   </h1>
 
-  <h3>Fullstack Developer</h3>
+  <h3>Fullstack engineer</h3>
 
   <p>
     🔭 Currently working on <strong>web development as an Intern</strong><br>
