@@ -1,6 +1,6 @@
 <div align="center">
-People who have visited [![HitCount](http://hits.dwyl.com/asm2212/asm2212/asm2212.svg?style=flat-square)](http://hits.dwyl.com/asm2212/asm2212/asm2212)
-Number of people who have visited my prifile: ![visitors](https://visitor-badge.glitch.me/badge?page_id=asm2212&left_color=green&right_color=red)
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asm2212.asm2212" />
+  
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
