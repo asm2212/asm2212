@@ -4,14 +4,16 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
   </h1>
-
-  <h3>Fullstack engineer</h3>
-
+  
+  <h3>Fullstack Engineer | Junior UI/UX Designer</h3>
+  
   <p>
-    🔭 Currently working on <strong>web development as an Intern</strong><br>
-    🌱 Currently learning <strong>some...</strong>
+    🎓 3rd-year Software Engineering student at Haramaya University<br>
+    💻 Passionate about solving real-world problems and delivering high-quality software<br>
+    🚀 Constantly learning about technology and business ideas<br>
+    💼 Love discussing business and management topics
   </p>
-
+  
   <a href="mailto:asmareadmasu0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
