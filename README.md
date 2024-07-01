@@ -21,7 +21,7 @@
 
 <hr/>
 
-## ⚒️ Languages, Frameworks, and Tools
+## ⚒️ Languages, Frameworks, library and Tools
 <div align="center">
   <strong>Languages:</strong> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -30,7 +30,7 @@
    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br>
   
-  <strong>Frameworks, Platforms and Libraries:</strong> 
+  <strong>Frameworks,Tools and Libraries:</strong> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
