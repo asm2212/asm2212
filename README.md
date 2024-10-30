@@ -4,9 +4,6 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
   </h1>
-  
-  <h3>  Fullstack Dev</h3>
-  
   <p>
     🎓 3rd-year Software Engineering student at Haramaya University<br>
     💻 Passionate about solving real-world problems and delivering high-quality software<br>
