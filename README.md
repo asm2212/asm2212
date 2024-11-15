@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmare+Admasu!;" />
   </h1>
   <p>
-    🎓 3rd-year Software Engineering student at Haramaya University<br>
+    🎓 4th-year Software Engineering student at Haramaya University<br>
     💻 Passionate about solving real-world problems and delivering high-quality software<br>
     🚀 Constantly learning about technology and business ideas<br>
     💼 Love discussing business and management topics
