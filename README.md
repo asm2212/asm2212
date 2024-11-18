@@ -1,1 +1,1 @@
-Passionate about Tech and Business Management
+## Passionate about 🧑‍💻tech & business management 🥰🥰
