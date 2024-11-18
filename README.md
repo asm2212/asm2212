@@ -1,9 +1,13 @@
+<div style="font-family: Arial, sans-serif; font-size: 24px; color: #333; font-weight: bold;">
+  <span style="animation: fade 4s infinite;">Passionate</span> 
+  <span style="animation: fade 4s infinite 1s;">about</span> 
+  <span style="animation: fade 4s infinite 2s;">Tech</span> 
+  <span style="animation: fade 4s infinite 3s;">and Business Management</span>
+</div>
 
-<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="none" stroke="#000" stroke-width="1" font-size="24" font-family="Arial" letter-spacing="3">
-    <textPath href="#curve" startOffset="0">
-      Passionate about Tech and Business Management
-    </textPath>
-  </text>
-  <path id="curve" d="M 10 80 Q 400 10, 780 80" fill="transparent"/>
-</svg>
+<style>
+@keyframes fade {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+</style>
