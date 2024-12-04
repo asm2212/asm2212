@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Asmare Admasu
  Full-Stack Dev(flutter ,node...modern web framework)
 
-##🌟 Tech Meets Business
+## 🌟 Tech Meets Business
 
 Combining my love for technology with business management, 
 
