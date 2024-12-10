@@ -1,3 +1,4 @@
+## 👋 እንኳን ወደ ጊትኸብ ፔጄ በሰላም መጣቹህ! 😃 😃
 ## Hi there! 👋 I'm Asmare Admasu
  Full-Stack Dev(flutter ,node...modern web framework)
 
