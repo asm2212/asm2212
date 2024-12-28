@@ -20,9 +20,9 @@ I work with a variety of languages, frameworks, and tools to build full stack ap
   <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightIcon.svg" alt="Prisma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/shadcn/shadcn/main/logo.svg" alt="shadcn" width="40" height="40"/>
+  <img src="https://github.com/shadcn/ui/blob/main/apps/www/public/logo.png?raw=true" alt="shadcn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/framer/logo/main/icon.png" alt="Framer Motion" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/framer/api-docs/main/static/favicon/android-icon-192x192.png" alt="Framer Motion" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lodash/lodash-plain.svg" alt="Lodash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
@@ -34,6 +34,7 @@ I work with a variety of languages, frameworks, and tools to build full stack ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/gin/logo.png" alt="Gin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
