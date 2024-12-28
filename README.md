@@ -18,9 +18,10 @@ I work with a variety of languages, frameworks, and tools to build full stack ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
-  <img src="https://shadcn.dev/shadcn-logo.svg" alt="shadcn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/shadcn-logo.png" alt="shadcn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://framerusercontent.com/images/brand-framer/logos/framer-logo-black.svg" alt="Framer Motion" width="40" height="40"/>
+  <img src="https://www.framer.com/static/favicon-196x196.png" alt="Framer Motion" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
