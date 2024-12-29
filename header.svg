@@ -3,25 +3,26 @@
     .title {
       font: bold 24px sans-serif;
       fill: url(#gradient);
-      animation: moveTitle 2s ease-in-out infinite alternate, colorChange 4s linear infinite;
+      animation: scaleAndRotate 3s ease-in-out infinite alternate, colorChange 5s linear infinite;
     }
-    @keyframes moveTitle {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(20px); }
+    @keyframes scaleAndRotate {
+      0% { transform: translateX(0) scale(1) rotate(0deg); }
+      50% { transform: translateX(15px) scale(1.1) rotate(5deg); }
+      100% { transform: translateX(30px) scale(1) rotate(0deg); }
     }
     @keyframes colorChange {
-      0% { fill: #2d2d2d; }
-      25% { fill: #00b894; }
-      50% { fill: #0984e3; }
-      75% { fill: #fdcb6e; }
-      100% { fill: #2d2d2d; }
+      0% { fill: #ff6b6b; }
+      25% { fill: #feca57; }
+      50% { fill: #48dbfb; }
+      75% { fill: #1dd1a1; }
+      100% { fill: #5f27cd; }
     }
   </style>
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00b894;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0984e3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fdcb6e;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#48dbfb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1dd1a1;stop-opacity:1" />
     </linearGradient>
   </defs>
   <text x="10" y="40" class="title">I am Asmare, a Full Stack Dev</text>
