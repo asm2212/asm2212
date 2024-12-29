@@ -1,21 +1,20 @@
-<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title {
-      font: bold 24px sans-serif;
+      font: bold 22px sans-serif;
       fill: url(#gradient);
-      animation: scaleAndRotate 3s ease-in-out infinite alternate, colorChange 5s linear infinite;
+      animation: scaleAndMove 3s ease-in-out infinite alternate, colorFade 5s linear infinite;
     }
-    @keyframes scaleAndRotate {
-      0% { transform: translateX(0) scale(1) rotate(0deg); }
-      50% { transform: translateX(15px) scale(1.1) rotate(5deg); }
-      100% { transform: translateX(30px) scale(1) rotate(0deg); }
+    @keyframes scaleAndMove {
+      0% { transform: translateY(0) scale(1); }
+      50% { transform: translateY(-5px) scale(1.05); }
+      100% { transform: translateY(0) scale(1); }
     }
-    @keyframes colorChange {
+    @keyframes colorFade {
       0% { fill: #ff6b6b; }
-      25% { fill: #feca57; }
-      50% { fill: #48dbfb; }
-      75% { fill: #1dd1a1; }
-      100% { fill: #5f27cd; }
+      33% { fill: #48dbfb; }
+      66% { fill: #1dd1a1; }
+      100% { fill: #ff6b6b; }
     }
   </style>
   <defs>
@@ -25,5 +24,5 @@
       <stop offset="100%" style="stop-color:#1dd1a1;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <text x="10" y="40" class="title">I am Asmare, a Full Stack Dev</text>
+  <text x="10" y="50" class="title">I am Asmare, a Full Stack Dev</text>
 </svg>
