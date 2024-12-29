@@ -1,4 +1,4 @@
-# Hi there I'm Asmare 👋
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/asm2212/asm2212/main/header.svg" alt="I am Asmare, a Full Stack Dev">
 </p>
