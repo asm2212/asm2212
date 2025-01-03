@@ -18,7 +18,7 @@
             src="https://img.shields.io/badge/|-telegram-blue?logo=telegram&style=for-the-badge"/></a></p></div>
                  
  <div align="center">          
-<img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
+<img src="s9.gif" alt="coding" width="700px" height="350px" /></div>
        
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
@@ -75,22 +75,7 @@ I am constantly enhancing my expertise and am always open to collaborating on me
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFe%2CEB545401%2C2000EBFE"/>
  </div>
  
-            
-<div align="center">
-<br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/asm2212/count.svg"/></p> 
-<br>
-</div>
 
-<!--- snake 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
--->
 
-[![committers.top badge](https://user-badge.committers.top/morocco/OUALIID.svg)](https://user-badge.committers.top/morocco/OUALIID)
-
-[![committers.top badge](https://org-badge.committers.top/morocco/OUALIID.svg)](https://org-badge.committers.top/morocco/OUALIID)
 
 
