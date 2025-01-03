@@ -18,7 +18,7 @@
 <img src="s7.gif" alt="coding" width="700px" height="350px" /></div>
        
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
-<p dir="auto">Hi, I’m Asmare Admasu, a Full-Stack Software Engineer. I build scalable, dynamic applications using Flutter, TypeScript, Go, NodeJS, Next... 
+<p dir="auto">Hi, I’m Asmare Admasu, a Full-Stack Dev. I build scalable, dynamic applications using Flutter, TypeScript, Go, NodeJS, Next... 
 I am constantly enhancing my expertise and am always open to collaborating on meaningful and impactful projects.
 </p></h1>
 
