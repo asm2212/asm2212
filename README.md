@@ -57,7 +57,6 @@ I am constantly enhancing my expertise and am always open to collaborating on me
 # GitHub Stats 📈🔍
 
 <div class="image-container">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=asm2212&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFe%2CEB545401"/> 
 <img width="49%" src="https://streak-stats.demolab.com?user=asm2212&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545401%2C2000EBFE"/>
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFe%2CEB545401%2C2000EBFE"/>
+
 </div>
