@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&duration=1000&pause=1000&color=9160FF&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%91%8B+Hey+there+it's+me;%E2%95%B0%E2%9C%A7Asmare+Admasu%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%97;I+live+in+%F0%9F%87%B2%F0%9F%87%A9+Ethiopia;%F0%9F%92%BB+I'm+obsessed+with+coding+;I+love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Student+at+Haramaya-University-software+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&duration=1000&pause=1000&color=9160FF&background=F9FFF400&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%91%8B+Hey+there+it's+me;%E2%95%B0%E2%9C%A7Asmare+Admasu%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%97;I+live+in+%F0%9F%87%B2%F0%9F%87%A9+Ethiopia;%F0%9F%92%BB+I'm+obsessed+with+coding+;I+love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Student+at+Haramaya-University-software+engineering)](https://git.io/typing-svg)
 
 <h1>
 <div align="center"> Let's Connect and have a Chat!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji></div>
