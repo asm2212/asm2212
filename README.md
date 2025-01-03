@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&duration=1000&pause=1000&color=9160FF&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%91%8B+Hey+there+it's+me;%E2%95%B0%E2%9C%A7OUALID+ELHADIM%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%97;I+live+in+%F0%9F%87%B2%F0%9F%87%A6+Morocco;%F0%9F%92%BB+I'm+obsessed+with+coding+;I+love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Student+at+ALX-software+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&duration=1000&pause=1000&color=9160FF&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%91%8B+Hey+there+it's+me;%E2%95%B0%E2%9C%A7Asmare+Admasu%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%97;I+live+in+%F0%9F%87%B2%F0%9F%87%A6+Ethiopia;%F0%9F%92%BB+I'm+obsessed+with+coding+;I+love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Student+at+Haramaya-University-software+engineering)](https://git.io/typing-svg)
 
 <h1>
 <div align="center"> Let's Connect and have a Chat!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji></div>
@@ -30,12 +30,11 @@ I am constantly enhancing my expertise and am always open to collaborating on me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightIcon.svg" alt="Prisma" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://shadcn.dev/shadcn-logo.svg" alt="shadcn" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://framer.com/static/images/favicon/favicon-192x192.png" alt="Framer Motion" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lodash/lodash-plain.svg" alt="Lodash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
