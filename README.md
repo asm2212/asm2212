@@ -22,8 +22,8 @@
        
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
-<p dir="auto">Hi, I’m Oualid Elhadim, a Full-Stack Software Engineer with a focus on backend development. I’m passionate about cybersecurity. I build scalable, dynamic applications using Python, JavaScript, Flask, NodeJS, SQL... 
-I’m also interested in IoT and robotics, where I work with technologies like Arduino, ESP32, ESP8266, and Digispark. I am constantly enhancing my expertise and am always open to collaborating on meaningful and impactful projects.
+<p dir="auto">Hi, I’m Asmare Admasu, a Full-Stack Software Engineer . I build scalable, dynamic applications using Flutter, TypeScript, Go, NodeJS, Next... 
+I am constantly enhancing my expertise and am always open to collaborating on meaningful and impactful projects.
 </p></h1>
 
 
@@ -70,15 +70,15 @@ I’m also interested in IoT and robotics, where I work with technologies like A
 <div class="image-container">
             
 <div class="image-container">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFe%2CEB545401"/> 
-<img width="49%" src="https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545401%2C2000EBFE"/>
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFe%2CEB545401%2C2000EBFE"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=asm2212&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFe%2CEB545401"/> 
+<img width="49%" src="https://streak-stats.demolab.com?user=asm2212&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545401%2C2000EBFE"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFe%2CEB545401%2C2000EBFE"/>
  </div>
  
             
 <div align="center">
 <br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/OUALIID/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/asm2212/count.svg"/></p> 
 <br>
 </div>
 
