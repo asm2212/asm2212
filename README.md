@@ -12,10 +12,10 @@
              <a href="https://www.linkedin.com/in/asm2212" target="_blank"><img
             src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/></a> 
        
-            </p></div>
+        
 
 <div align="center">          
-<img src="s9.mp4" alt="coding" width="700px" height="350px" /></div>
+<img src="s7.gif" alt="coding" width="700px" height="350px" /></div>
        
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">Hi, I’m Asmare Admasu, a Full-Stack Software Engineer. I build scalable, dynamic applications using Flutter, TypeScript, Go, NodeJS, Next... 
