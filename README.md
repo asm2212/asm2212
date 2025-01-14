@@ -13,9 +13,6 @@
             src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/></a> 
        
         
-
-<div align="center">          
-<img src="s7.gif" alt="coding" width="700px" height="350px" /></div>
        
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">Hi, I’m Asmare Admasu, a Full-Stack Dev. I build scalable, dynamic applications using Flutter, TypeScript, Go, NodeJS, Next... 
@@ -34,7 +31,7 @@ I am constantly enhancing my expertise and am always open to collaborating on me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/gin/logo.png" alt="Gin" width="40" height="40"/>
+
 </p>
 
 
