@@ -12,9 +12,7 @@
 
 ---
 
-## 💡 About Me
-Hi, I’m **Asmare Admasu**, a Full-Stack Developer who builds scalable, high-performance applications.  
-I am passionate about:
+##  Tech Stack
 - 🖥️ **Frontend:** Flutter, Next.js, Svelte, Vue  
 - ⚙️ **Backend:** Node.js, Express, Go, NestJS  
 - 🌐 **Realtime:** WebSockets, GraphQL, Apollo  
