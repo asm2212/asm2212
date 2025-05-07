@@ -1,7 +1,7 @@
-""<div align="center">
+<div align="center">
 
 <h1>Asmare Admasu</h1>
-<p>Full-Stack Developer | Passionate about building scalable and high-performance applications.</p>
+<p>Softare Dev | Passionate about building scalable and high-performance applications.</p>
 
 <a href="mailto:asmareadmasu0@gmail.com">
     <img src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/>
