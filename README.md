@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Asmare Admasu</h1>
-<p>Software Dev | Passionate about building scalable and high-performance applications.</p>
+<p>Fullstack Developer • Focused on Backend • Lifelong Learner</p>
 
 <a href="mailto:asmareadmasu0@gmail.com">
     <img src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/>
@@ -12,10 +12,38 @@
 
 ---
 
-##  Tech Stack
- 🖥️ **Frontend:** Flutter, Next.js, Svelte, Vue  
- ⚙️ **Backend:** Node.js, Express, Go, NestJS  
- 🌐 **Realtime:** WebSockets, GraphQL, Apollo  
- 📡 **Deployment:** Vercel, Docker, CI/CD  
+## 🚀 About Me
 
-I am always enhancing my expertise and open to collaborating on impactful projects.
+I am a passionate fullstack developer, strongly focused on backend systems. Every day, I strive to learn something new and improve my expertise. I love experimenting with new technologies, collaborating on impactful projects, and building scalable, high-performance applications.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square"/> 
+<img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square"/>
+
+**Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=flat-square"/>
+
+**Tools & Platforms:**  
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/>
+
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&layout=compact&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+I am always open to collaborating on challenging and meaningful projects. Let's build something amazing together!
+</div>
