@@ -41,7 +41,7 @@ I am a passionate fullstack developer, strongly focused on backend systems. Ever
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&layout=compact&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asm2212&layout=compact&hide=html,css&langs_count=8)](https://github.com/asm2212/github-readme-stats)
 
 ---
 
