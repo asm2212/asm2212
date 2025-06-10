@@ -15,28 +15,28 @@ I thrive on solving complex problems, building scalable infrastructures, and con
 I'm driven by curiosity, collaboration, and a love for clean, maintainable code.
 
 **🔎 Fun Facts:**  
-- I read every day about business, self-development, and politics.  
-- I often code for more than 12 hours a day!
+I read every day about business, self-development, and politics.  
+I often code for more than 12 hours a day!
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-- Go  
-- TypeScript  
-- Rust  
-- Dart  
-- Bash  
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 
 **Tools / Frameworks**  
-- Flutter  
-- Next.js  
-- NestJS  
-- Nuxt  
-- Docker  
-- GraphQL  
-- Kubernetes  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 
 ---
 
