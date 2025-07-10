@@ -1,50 +1,7 @@
-<div align="center">
+I'm a Software Engineer and a passionate lifelong learner. My personal slogan is: "We can do everything – it just takes time."
 
-# Asmare Admasu  
-**Fullstack Developer • Backend Specialist • Lifelong Learner • Behind-the-Scenes Lover**
+While I dedicate myself daily to improving my coding skills, I don't define myself solely by my profession. 
 
-[![Email](https://img.shields.io/badge/Gmail-asmareadmasu0@gmail.com-blue?logo=gmail&style=for-the-badge)](mailto:asmareadmasu0@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asm2212-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asm2212)
+I believe in growing holistically – spiritually, mentally, skillfully, and socially. I'm not a 24/7 coder; I'm a human being who strives to evolve in all aspects of life.
 
----
-
-## 🚀 About Me
-
-I’m a passionate fullstack developer with a strong focus on backend systems and a deep appreciation for behind-the-scenes engineering.  
-
-I thrive on solving complex problems, building scalable infrastructures, and continuously expanding my knowledge.  
-
-I'm driven by curiosity, collaboration, and a love for clean, maintainable code.
-
-**🔎 Fun Facts:**  
-I read every day about business, self-development, and politics.  
-
-I have never drunk coffee from childhood until now
-
----
-
-## 🛠️ Tech Stack
-
-<br>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-
-
-
----
-
-### 🤝 Let’s Connect
-
-I'm always open to collaborating on challenging and meaningful projects.  
-Let’s build something impactful together!
-
-</div>
+Each day, I work toward becoming not just a better engineer, but a better version of myself. Growth, in every form, is my true goal
